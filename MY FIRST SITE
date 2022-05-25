@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Sanskar personal site</title>
+    <link rel="stylrsheet" href="css/css/styles.css">
+    <link rel="icon" href="Favicon.ico">
+  </head>
+  <body>
+
+        <div class="top-container">
+          <h1>I'm Saanskar</h1>
+          <p1>A<span class="pro">pro</span>grammer.</p1>
+          <img src="mountian.png" alt="mountian-img">
+        </div> 
+       <div class="Middel-contianer">
+         <div class="profile">
+           <img src="pic2.jpg" alt="my-img">
+           <h2>Hello</h2>
+           <p>I am a grad student learning web development with Dr. Angela yu, on udemy</p>
+         </div>
+         <hr>
+         <div class="skills">
+           <h2>My Skills</h2>
+           <div class="Skills-row">
+             <img src="badminton.jpg" alt="badminton-img">
+             <h3>Playing badminton</h3>
+             <p>I like to play badminton on a daily basis enjoyment sport </p>
+             </div>
+            <div class="Contacts">
+              <h2>My contacts</h2>
+              <div class="Contacts-row">
+                <p>I am very thankfull for all of you that you guys visited my site <br> in case of any queriestry to contact me..</p>
+              </div> 
+            </div>
+             
+           </div>
+         </div>
+       </div>
+  </bod y> 
+</html>
